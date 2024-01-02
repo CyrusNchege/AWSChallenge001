@@ -30,6 +30,7 @@ The proposed three-tier architecture consists of three main layers:
 
 ### Architecture Diagram
 <!-- diagram -->
+![Three-Tier Architecture Diagram](./3tierarchitecture.drawio.png)
 
 The architecture diagram clearly illustrates the relationships and interactions between the different layers. Components such as load balancers distribute traffic across multiple servers to ensure load distribution and fault tolerance.
 
